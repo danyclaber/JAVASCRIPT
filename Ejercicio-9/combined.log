@@ -1,0 +1,3 @@
+{"level":"error","message":"Error: Solo String para el mensaje","service":"user-service"}
+{"level":"error","message":"Error: Solo cadenas para el mensaje","service":"user-service"}
+{"level":"info","message":"Se ejecuto de manera correcta","service":"user-service"}
