@@ -1,0 +1,26 @@
+.seccion {
+  background-color: darkslateblue;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.parrafo {
+  background-color: white;
+  padding: 1rem;
+}
+
+.parrafo.dragging {
+  opacity: 0.3;
+}
+
+.imagen-papelera {
+  height: 300px;
+  width: 300px;
+  background-color: blueviolet;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSMWeEC0tULzOjfWFAOdOHjUw9WjXhBDbirg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /*desaparecer imagen*/
+  
+}
